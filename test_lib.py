@@ -1,5 +1,5 @@
 import lib
 
-def test_power():
-    assert lib.power(2,2) == 4
-    assert lib.power(2,3) == 8
+def test_multiply():
+    assert lib.multiply(2,2) == 4
+    assert lib.multiply(2,3) == 6
